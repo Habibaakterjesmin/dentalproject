@@ -1,0 +1,8 @@
+@media(max-width:575px){
+    .desktop_hide{
+        display: inline-block;
+    }
+    .desktop_hide{
+        width: 200px;
+    }
+}
